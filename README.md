@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Slack-Inspired Front Page Clone
 
 This project is a Slack front page clone, built using React and CSS, to showcase front-end development skills. The web page includes a responsive navigation bar, engaging content sections, and interactive UI elements.
@@ -19,3 +20,6 @@ Content Section with styled fonts, images, logos, and icons.
 Responsive Design ensuring compatibility across different screen sizes.
 
 Styled Components with proper font families and animations.
+=======
+# slack
+>>>>>>> 3bde09e69da496737610a433b07462494e044a37
