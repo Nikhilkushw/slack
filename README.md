@@ -1,17 +1,38 @@
-<<<<<<< HEAD
-# React + Vite
+**Slack-Inspired Web UI**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based Slack-inspired UI project that includes a navigation bar and content section with modern styling.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Slack-style Navbar with navigation links and buttons.
 
-## Expanding the ESLint configuration
+Content section with promotional text, buttons, and images.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Stack
-Stack Front Page
->>>>>>> 782b4e7cc0f393706fc8ef23838c3e0705f7dbd5
+Responsive design using React and CSS.
+
+Google Sign-up button for authentication integration.
+
+
+/project-root
+│── /src
+│   ├── /components
+│   │   ├── SlackNavbar.jsx
+│   │   ├── content.jsx
+│   ├── /assets
+│   │   ├── Google.jpg
+│   │   ├── picture.jpeg
+│   │   ├── planet.png
+│   │   ├── carvana.png
+│   │   ├── kiva.png
+│   │   ├── circle.png
+│   │   ├── board.jpeg
+│   │   ├── deva.png
+│   │   ├── Intuit.png
+│   │   ├── fox.png
+│   ├── /styles
+│   │   ├── SlackNavbar.css
+│   │   ├── content.css
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│── README.md
